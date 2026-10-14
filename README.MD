@@ -8,6 +8,18 @@ A backend application for a Food Ordering System built with Python, Django, and 
 
 **Frontend:** [Open Food Ordering System](https://food-ordering-system-123-8ah1kexf0-ishrat-talib.vercel.app/)
 
+## Technologies Used
+
+- Python
+- Django
+- Django REST Framework
+- Django REST Framework Simple JWT
+- Pillow
+- Django CORS Headers
+- drf-yasg
+- WhiteNoise
+- Gunicorn
+
 ## About the Project
 
 This backend is part of a full-stack Food Ordering System developed using React for the frontend and Django REST Framework for the backend. Both applications are maintained in separate repositories and communicate through API integration.
@@ -24,18 +36,6 @@ To run the complete Food Ordering System on your local machine, refer to the REA
 ## Project Structure
 
 [View Complete Backend Project Structure](https://github.com/Ishratalib/Backend-of-Food-ordering/blob/main/backend-structure.txt)
-
-## Technologies Used
-
-- Python
-- Django
-- Django REST Framework
-- Django REST Framework Simple JWT
-- Pillow
-- Django CORS Headers
-- drf-yasg
-- WhiteNoise
-- Gunicorn
 
 ## Features
 
